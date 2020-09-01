@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projetReactApiGouv/static/css/main.9cd4d8d4.chunk.css",
+    "main.js": "/projetReactApiGouv/static/js/main.c9b26f9f.chunk.js",
+    "main.js.map": "/projetReactApiGouv/static/js/main.c9b26f9f.chunk.js.map",
+    "runtime-main.js": "/projetReactApiGouv/static/js/runtime-main.7d7323da.js",
+    "runtime-main.js.map": "/projetReactApiGouv/static/js/runtime-main.7d7323da.js.map",
+    "static/css/2.43079d8c.chunk.css": "/projetReactApiGouv/static/css/2.43079d8c.chunk.css",
+    "static/js/2.701bed58.chunk.js": "/projetReactApiGouv/static/js/2.701bed58.chunk.js",
+    "static/js/2.701bed58.chunk.js.map": "/projetReactApiGouv/static/js/2.701bed58.chunk.js.map",
+    "index.html": "/projetReactApiGouv/index.html",
+    "precache-manifest.17a41b988f6d5f1f7909a3d986968d07.js": "/projetReactApiGouv/precache-manifest.17a41b988f6d5f1f7909a3d986968d07.js",
+    "service-worker.js": "/projetReactApiGouv/service-worker.js",
+    "static/css/2.43079d8c.chunk.css.map": "/projetReactApiGouv/static/css/2.43079d8c.chunk.css.map",
+    "static/css/main.9cd4d8d4.chunk.css.map": "/projetReactApiGouv/static/css/main.9cd4d8d4.chunk.css.map",
+    "static/js/2.701bed58.chunk.js.LICENSE.txt": "/projetReactApiGouv/static/js/2.701bed58.chunk.js.LICENSE.txt",
+    "static/media/capitole.jpg": "/projetReactApiGouv/static/media/capitole.de502dd9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d7323da.js",
+    "static/css/2.43079d8c.chunk.css",
+    "static/js/2.701bed58.chunk.js",
+    "static/css/main.9cd4d8d4.chunk.css",
+    "static/js/main.c9b26f9f.chunk.js"
+  ]
+}

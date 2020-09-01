@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,kEACF,CACA,MACE,gBAAiB,CACjB,mBACF,CAEA,gBACE,WACF","file":"main.9cd4d8d4.chunk.css","sourcesContent":["h1,h2,h3{\n  font-family: Impact,Haettenschweiler,'Arial Narrow Bold',sans-serif;\n}\n.site{\n  min-height: 100vh;\n  margin-bottom: -40px;\n}\n\nfooter, .minSite{\n  height: 40px;\n}"]}
